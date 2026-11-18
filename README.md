@@ -4,7 +4,7 @@
 
 ### Simulate and evaluate the effect of on-site water reuse interventions on energy use and water and pollutant flows in a household, building, or community!
 
-## OSiRIS model features:
+## OSiRIS model features ([OSiRIS-model](https://github.com/SeppeOngena/OSiRIS-model/)):
 - High flexibility with building blocks, configuration in .json files for standalone execution:
   - **Water tanks:** volume tracked over time
   - **Treatments and pumps:** recovery, energy use, design flow, rejection, degradation
